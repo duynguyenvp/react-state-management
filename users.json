@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "nguyễn đức duy",
+      "gender": "0",
+      "birthday": "03/02/2020",
+      "phone": "0123456789",
+      "email": "aaa@gmail.com",
+      "id": 1
+    }
+  ]
+}
