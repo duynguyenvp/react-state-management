@@ -1,4 +1,4 @@
-# Interview-test
+# React State Management
 
 #### Installation:
 > yarn install
